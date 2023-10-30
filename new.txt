@@ -5,4 +5,5 @@ add new by server
 66
 77
 88
+10local
 99 sever
